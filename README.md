@@ -14,7 +14,7 @@ Moreover, within that legacy console, I was able to manipulate my MFA configurat
 
 ## About
 
-This repository will be focused on publishing more information about a vulnerability that can be exploited to gain access to your Oracle Cloud Infrastructure, based on a weak MFA enforcement policy created by Oracle. I reported it to Oracle, but they informed me that it is a known issue that only affects some accounts under certain circumstances. Nevertheless, one of the impacted accounts is mine, and it could potentially have an impact on your account as well. By the way, you can find more information about this issue tracking in the **Disclaimer** section.
+This repository will be focused on publishing more information about a vulnerability that can be exploited to gain access to your Oracle Cloud Infrastructure, based on a weak MFA enforcement policy created by Oracle. I reported it to Oracle, but they informed me that it is a known issue that only affects some accounts under certain circumstances. Nevertheless, one of the impacted accounts is mine, and it could potentially have an impact on your account as well. By the way, you can find more information about this issue tracking in the **[Disclaimer](#disclaimer)** section.
 
 ### Disclaimer
 
@@ -31,7 +31,7 @@ The hotfix provided by Oracle to ensure that your account is secure can be viewe
 ## Conclusion
 
 A cracker can use stolen passwords to access Oracle Cloud Infrastructure accounts, bypassing the MFA enforced by Oracle itself.
-So, I recommend you to check your OCI configurations, and if your account is vulnerable, apply the hotfix described in the *Hotfix* section.
+So, I recommend you to check your OCI configurations, and if your account is vulnerable, apply the hotfix described in the **[Hotfix](#hotfix)** section.
 
 ---
 
